@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="DSA_Cpp.cpp" />
+    <ClCompile Include="LinkedList(Circularly).cpp" />
     <ClCompile Include="LinkedList(Doubly).cpp" />
     <ClCompile Include="LinkedList(Singularly).cpp" />
   </ItemGroup>
